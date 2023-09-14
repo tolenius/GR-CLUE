@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Olenius"
+  given-names: "Tinja"
+  orcid: "https://orcid.org/0000-0001-9900-3081"
+title: "GR-CLUE: A simple tool to assess the validity of nanoparticle growth rate deduced from size distribution data"
+date-released: 2023-02-13
+url: "https://github.com/tolenius/GR-CLUE"
